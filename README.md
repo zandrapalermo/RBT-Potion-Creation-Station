@@ -167,7 +167,7 @@ Here is a step-by-step walkthrough of using the potion inventory simulation:
   ```
 
 ## Example Snapshot Run
-
+```
 Welcome to The Potion Creation Station!
 To get started, please select a potion sorting method:
     1. Total Stats
@@ -175,6 +175,8 @@ To get started, please select a potion sorting method:
     3. Speed
     4. Health
 Please select your choice!: 1
+```
+```
 Now onto the Potion Main Menu....
 
 --- Menu ---
@@ -186,11 +188,15 @@ Now onto the Potion Main Menu....
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 1
+```
+```
 Potion name: Elixir of Vitality
 Strength: 4
 Speed: 3
 Health: 5
 Potion added!
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -200,12 +206,16 @@ Potion added!
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 1
+```
+```
 Potion name: Potion of Giants
 Strength: 7
 Speed: 5
 Health: 6
 Potion added!
+```
 
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -215,13 +225,15 @@ Potion added!
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 2
-
+```
+```
 === Potion List ===
 
 Potion of Giants - STR: 7, SPD: 5, HP: 6 (Total: 18)
 
 Elixir of Vitality - STR: 4, SPD: 3, HP: 5 (Total: 12)
-
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -231,6 +243,8 @@ Elixir of Vitality - STR: 4, SPD: 3, HP: 5 (Total: 12)
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 3
+```
+```
 Enter potion name: Elixir of Vitality
 Potion Found:
 Name: Elixir of Vitality
@@ -238,7 +252,8 @@ Strength: 4
 Speed: 3
 Health: 5
 Total Stats: 12
-
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -248,9 +263,12 @@ Total Stats: 12
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 4
+```
+```
 Enter potion name: Elixir of Vitality
 This Potion has been sent into the depths of the archive, never to be found again!
-
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -260,6 +278,8 @@ This Potion has been sent into the depths of the archive, never to be found agai
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 6
+```
+```
 Welcome to The Potion Creation Station!
 To get started, please select a potion sorting method:
     1. Total Stats
@@ -268,7 +288,8 @@ To get started, please select a potion sorting method:
     4. Health
 Please select your choice!: 3
 Sorting method changed!
-
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -278,13 +299,15 @@ Sorting method changed!
 6. Change Sorting Method
 7. Quit
 Please select your choice!: 2
-
+```
+```
 === Potion List ===
 
 Speed Serum - STR: 2, SPD: 9, HP: 1 (Total: 12)
 
 Potion of Giants - STR: 7, SPD: 5, HP: 6 (Total: 18)
-
+```
+```
 --- Menu ---
 1. Add Potion
 2. Display All Potions
@@ -295,6 +318,7 @@ Potion of Giants - STR: 7, SPD: 5, HP: 6 (Total: 18)
 7. Quit
 Please select your choice!: 7
 Thank you for visiting the Potion Creation Station! Good luck with future adventures!
+```
 
 ---
 
