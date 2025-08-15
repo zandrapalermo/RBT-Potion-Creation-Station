@@ -165,6 +165,8 @@ Here is a step-by-step walkthrough of using the potion inventory simulation:
   ```
   Thank you for visiting the Potion Creation Station! Good luck with future adventures!
   ```
+  
+---
 
 ## Example Snapshot Run
 ```
