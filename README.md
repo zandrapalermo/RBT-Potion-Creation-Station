@@ -1,4 +1,4 @@
-# Potion Inventory Simulation
+# Potion Inventory Simulation AKA The Potion Creation Station!
 
 A console-based potion inventory simulation inspired by role-playing games, implemented in C++. Players can manage and sort potions that boost character stats like Strength, Speed, and Health. The inventory is efficiently managed using a **Red-Black Tree**, a self-balancing binary search tree, allowing fast lookups, insertions, deletions, and sorted listings.
 
