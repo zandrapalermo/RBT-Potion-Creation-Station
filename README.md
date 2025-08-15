@@ -322,7 +322,7 @@ Thank you for visiting the Potion Creation Station! Good luck with future advent
 
 ---
 
-This snapshot: 
+**This snapshot:** 
 - Provides a condensed view of a typical run of the Potion Inventory Simulation
 - Demonstrates the main functionality, including adding potions with stats, displaying the inventory sorted by the current sort key, searching for a potion by name, deleting a potion, changing the sorting method, and finally exiting the program 
 - All console output matches the actual program messages, giving a clear picture of the user experience and how the Red-Black Tree maintains the inventory in sorted order.
